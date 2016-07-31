@@ -2,3 +2,4 @@
 #End of ReadME file
 
 #Added config directory
+#Updated Remote repository
